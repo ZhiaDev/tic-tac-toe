@@ -11,3 +11,6 @@
 - Windows
 
 <br/>
+
+## Screenshot : 
+![banner](https://github.com/SharifiDev/tic-tac-toe/raw/master/banner.png)
