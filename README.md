@@ -1,5 +1,5 @@
 # Flutter: TicTacToe Game
-💠 a Material TicTacToe Gmae Cross-Platform
+💠 A cross-platform material tic-tac-toe game
 
 <br/>
 
